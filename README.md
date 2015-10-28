@@ -72,7 +72,7 @@ com.www&#8203;.server > Globals.java
 | zip_cmd       | Preferred compressing application. |
 | zip_args      | Zip command arguments (if any). |
 
-### Start Project
+### Start the Server
 When the Server starts, to check if everything is OK, run from your browser the URL:
 
 `http://localhost:port/Server/webresources/tasks`
