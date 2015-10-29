@@ -7,6 +7,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 
+nb-configuration.xml
+
 # =========================
 # Operating System Files
 # =========================
